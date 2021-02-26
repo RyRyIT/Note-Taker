@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/RyRyIT/Note-Taker#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
     "node": "^15.8.0"
   },
   "devDependencies": {},
